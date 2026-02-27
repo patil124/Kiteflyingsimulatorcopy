@@ -1,0 +1,26 @@
+{
+  "name": "Kite Flying Simulator",
+  "short_name": "Kite Sim",
+  "description": "A realistic kite flying simulator with weather effects, physics, and collectibles",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#87CEEB",
+  "theme_color": "#0284C7",
+  "orientation": "any",
+  "categories": ["games", "entertainment"],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
